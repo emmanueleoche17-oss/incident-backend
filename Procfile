@@ -1,0 +1,1 @@
+web: gunicorn incident_backend.wsgi:application
